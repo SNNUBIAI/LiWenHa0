@@ -6,3 +6,4 @@
 - 了解Transforms如何运作，及定义Multi-headattention和mask编码机制，前向传递函数FFN，Encoder和Decoder一些列构成Transforms的函数定义
 - 纤维追踪及MRtrix教程https://liaopan.github.io/datasets/
 - MRI知识问答网站https://mriquestions.com/index.html
+- MRtrix系列教程https://andysbrainbook.readthedocs.io/en/latest/MRtrix/MRtrix_Course/MRtrix_00_Diffusion_Overview.html#history-of-diffusion
